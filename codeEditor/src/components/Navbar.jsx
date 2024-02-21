@@ -7,6 +7,7 @@ function Navbar() {
             <div className="left">
                 <div className="logo font-bold text-2xl text-white text-center">
                     <img className=' w-44' src="img/codepen.png" alt="" />
+                    
                 </div>
             </div>
         </div>
